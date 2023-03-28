@@ -5,6 +5,8 @@ body {
     line-height: 30px;
 }
 
+/* header */
+
 header {
     background-color: #db282e;
     text-align: center;
@@ -26,6 +28,8 @@ header img {
     width: 300px;
     border: 20px solid #173967;
 }
+
+/* main */
 
 main {
     background-color: #173967;
@@ -61,6 +65,8 @@ a:hover {
     color: white;
     background-color: #173967;
 }
+
+/* footer */
 
 footer {
     background-color: #db282e;
